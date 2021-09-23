@@ -9,3 +9,12 @@
 body{
     font-family: 'Raleway', sans-serif;
 }
+
+.carousel-indicators{
+    top: 50px;
+}
+.carousel-indicators button {
+    width: px;
+    height:px;
+    border-radius: 50%;
+}
